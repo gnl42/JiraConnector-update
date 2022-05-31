@@ -2,14 +2,15 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name='JiraConnector 4.1.x' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1653894253786'/>
+    <property name='p2.timestamp' value='1653986822168'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='5'>
+  <children size='6'>
     <child location='../../../releases/4.1.0.v20220529-0858'/>
     <child location='../../../releases/4.1.0.v20220529-2053'/>
     <child location='../../../releases/4.1.0.v20220529-2056'/>
     <child location='../../../releases/4.1.0.v20220529-2259'/>
     <child location='../../../releases/4.1.0.v20220530-0703'/>
+    <child location='../../../releases/4.1.1.v20220531-0845'/>
   </children>
 </repository>
