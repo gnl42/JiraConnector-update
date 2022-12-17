@@ -2,11 +2,11 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='JiraConnector 4.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1670402726655'/>
+    <property name='p2.timestamp' value='1671266022006'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
   <children size='2'>
-    <child location='4.1.x'/>
     <child location='4.2.x'/>
+    <child location='4.3.x'/>
   </children>
 </repository>
