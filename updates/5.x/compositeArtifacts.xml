@@ -1,12 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?compositeArtifactRepository version='1.0.0'?>
-<repository name='JiraConnector 5.x' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
+<repository name='&quot;JiraConnector&quot; 5.x' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1728842625244'/>
+    <property name='p2.timestamp' value='1758170861567'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='2'>
+  <children size='3'>
     <child location='5.0.x'/>
     <child location='5.1.x'/>
+    <child location='5.2.x'/>
   </children>
 </repository>
